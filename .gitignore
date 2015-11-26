@@ -41,3 +41,23 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.o
+obj/local/x86/libstdc++.a
+*.d
+*.so
+obj/local/armeabi-v7a/libstdc++.a
+obj/local/mips/libstdc++.a
+obj/local/armeabi/libstdc++.a
+*.ap_
+gen/com/example/androidjniproject/R.java
+*.class
+*.cache
+*.dex
+bin/dexedLibs/android-support-v4-7197c03d320f415123e5c3da9dabbd94.jar
+*.apk
+bin/AndroidManifest.xml
+gen/com/example/androidjniproject/BuildConfig.java
+bin/res/crunch/drawable-xxhdpi/ic_launcher.png
+bin/res/crunch/drawable-hdpi/ic_launcher.png
+bin/res/crunch/drawable-mdpi/ic_launcher.png
+bin/res/crunch/drawable-xhdpi/ic_launcher.png
